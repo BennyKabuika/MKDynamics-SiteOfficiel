@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLaptop, FaCode, FaShoppingCart, FaPaintBrush, FaFileAlt, FaIdCard, FaPencilAlt } from "react-icons/fa";
+import { FaPaintBrush, FaFileAlt, FaIdCard, FaPencilAlt } from "react-icons/fa";
 import { motion } from "framer-motion";
 import Container from "../components/container/Container";
 

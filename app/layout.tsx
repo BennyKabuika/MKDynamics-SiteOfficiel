@@ -84,9 +84,6 @@ type RootLayoutProps = {
 export default function RootLayout({ children }: RootLayoutProps) {
     return (
         <html lang="en-GB">
-            <head>
-                <meta name="color-scheme" content="dark light" />
-            </head>
             <body
                 className={`${syne.className} scroll-smooth scrollbar-none scrollbar-track-[#0E1016] scrollbar-thumb-[#212531]`}
             >

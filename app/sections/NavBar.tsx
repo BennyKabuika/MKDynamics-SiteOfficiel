@@ -2,7 +2,6 @@
 import Link from "next/link";
 import Container from "../components/container/Container";
 import React from "react";
-import Image from "next/image";
 
 const NavBar = () => {
     const handleScroll = (e: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
