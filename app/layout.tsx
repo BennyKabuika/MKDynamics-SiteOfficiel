@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     metadataBase: new URL("https://www.mkdynamics.be/"),
     title: "MKDynamics - Information Technology Solutions",
     description:
-    "Innovative IT company offering software development and cybersecurity to support your digital transformation towards a connected world.",
+    "MKDYNAMICS excels in crafting custom software and mobile apps, ensuring digital security through cybersecurity services, transforming businesses with innovation ...",
     generator: "Next.js",
     applicationName: "MKDynamics",
     keywords: [
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     openGraph: {
         title: "MKDynamics - Information Technology Solutions",
         description:
-      "Innovative IT company offering software development and cybersecurity to support your digital transformation towards a connected world.",
+      "MKDYNAMICS excels in crafting custom software and mobile apps, ensuring digital security through cybersecurity services, transforming businesses with innovation ...",
         url: "https://www.mkdynamics.be/",
         siteName: "www.mkdynamics.be",
         images: [
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "MKDynamics - Information Technology Solutions",
         description:
-      "Innovative IT company offering software development and cybersecurity to support your digital transformation towards a connected world.",
+      "MKDYNAMICS excels in crafting custom software and mobile apps, ensuring digital security through cybersecurity services, transforming businesses with innovation ...",
     },
     robots: {
         index: true,
